@@ -5,7 +5,7 @@ I’m starting with the epistemology of consulting — understanding how consult
 # What This Repo Will Contain
  - Core concepts and foundations of consulting
  - Industry folders that expand as I explore them
- - Case studies (aiming for 25 per industry)
+ - Case studies
  - Frameworks, mental models, and strategy tools
  - Notes on epistemology, history, and context
  - Tools, templates, and anything that helps me think clearly
